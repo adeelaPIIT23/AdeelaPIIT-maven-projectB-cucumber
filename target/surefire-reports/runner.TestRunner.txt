@@ -1,0 +1,66 @@
+-------------------------------------------------------------------------------
+Test set: runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.391 s <<< FAILURE! - in runner.TestRunner
+runScenario(runner.TestRunner)  Time elapsed: 0.147 s  <<< FAILURE!
+io.cucumber.testng.UndefinedStepException: 
+The step 'User is on the Tutorials Ninja home page' and 10 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User is on the Tutorials Ninja home page")
+public void user_is_on_the_tutorials_ninja_home_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User navigates to the Registration page")
+public void user_navigates_to_the_registration_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User enters first name as {string}")
+public void user_enters_first_name_as(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User enters last name as {string}")
+public void user_enters_last_name_as(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User enters email as {string}")
+public void user_enters_email_as(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User enters telephone as {string}")
+public void user_enters_telephone_as(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User enters password as {string}")
+public void user_enters_password_as(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User confirms the password as {string}")
+public void user_confirms_the_password_as(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User agrees to the terms and conditions")
+public void user_agrees_to_the_terms_and_conditions() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("User clicks on the Continue button")
+public void user_clicks_on_the_continue_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Registration should be successful")
+public void registration_should_be_successful() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
