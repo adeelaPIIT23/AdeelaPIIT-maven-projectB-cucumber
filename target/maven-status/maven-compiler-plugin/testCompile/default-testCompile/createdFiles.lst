@@ -5,4 +5,5 @@ com\Cucumber_Framework_Bootcamp_Q2_Tests\Runner.class
 com\Cucumber_Framework_Bootcamp_Q2_Tests\LoginSteps.class
 listeners\ExtentHtmlReporter.class
 com\Cucumber_Framework_Bootcamp_Q2_Tests\AddToCartSteps.class
+com\Cucumber_Framework_Bootcamp_Q2_Tests\Gitworkin.class
 com\Cucumber_Framework_Bootcamp_Q2_Tests\SearchProductSteps.class
