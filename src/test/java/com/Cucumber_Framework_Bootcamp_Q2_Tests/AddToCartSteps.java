@@ -14,7 +14,7 @@ public class AddToCartSteps {
 
     @Given("User is on the product page for {string}")
     public void user_is_on_the_product_page_for(String productName) {
-        driver.get("http://tutorialsninja.com/demo/index.php?route=product/product&product_id=123"); // Update product_id as needed
+        driver.get("https://tutorialsninja.com/demo/index.php?route=product/product&product_id=33&search=samsung"); // Update product_id as needed
     }
 
     @When("User adds the product to the cart")
